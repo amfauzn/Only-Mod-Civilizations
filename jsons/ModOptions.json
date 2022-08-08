@@ -1,0 +1,31 @@
+{
+    "nationsToRemove":["Babylon","Greece","China","Egypt","England","France","Russia","Rome","Arabia","America","Japan","India","Germany","The Ottomans","Korea","Iroquois","Persia","Polynesia","Siam","Spain","Songhai","Mongolia","Aztecs","Inca","Denmark","The Huns","The Netherlands","Sweden","Austria","Carthage","Byzantium","Celts","Ethiopia","The Maya"],
+	"buildingsToRemove": ["Stele","Pyramid","Paper Maker","Floating Gardens","Walls of Babylon","Krepost","Burial Tomb","Mud Pyramid Mosque","Bazaar","Longhouse","Wat","Mughal Fort","Ceilidh Hall","Coffee House"],
+	"unitsToRemove": [
+        "Maori Warrior", "Jaguar", 
+        "Bowman", "Slinger", "Atlatlist",
+        "Quinquereme", "Dromon",
+        "War Chariot", "Horse Archer", "War Elephant",
+        "Hoplite", "Persian Immortal", "Battering Ram", "Pictish Warrior",
+        "Companion Cavalry", "African Forest Elephant", "Cataphract",
+        "Ballista",
+        "Legion", "Mohawk Warrior",
+        "Landsknecht", // not a unique unit in BNW expansion pack
+        "Camel Archer", "Conquistador", "Naresuan's Elephant", "Mandekalu Cavalry", "Keshik",
+        "Chu-Ko-Nu", "Longbowman",
+        "Hwach'a",
+        "Samurai", "Berserker",
+        "Turtle Ship",
+        "Musketeer", "Janissary", "Minuteman", "Tercio",
+        "Sea Beggar",
+        "Ship of the Line",
+        "Sipahi", "Hakkapeliitta",
+        "Norwegian Ski Infantry", "Carolean", "Mehal Sefari",
+        "Cossack", "Hussar",
+        "Foreign Legion",
+        "Zero",
+        "B17",
+        "Panzer",
+        "Khan"
+    ]
+}
