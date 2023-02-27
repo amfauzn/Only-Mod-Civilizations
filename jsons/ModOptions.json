@@ -1,6 +1,6 @@
 {
     "nationsToRemove":["Babylon","Greece","China","Egypt","England","France","Russia","Rome","Arabia","America","Japan","India","Germany","The Ottomans","Korea","Iroquois","Persia","Polynesia","Siam","Spain","Songhai","Mongolia","Aztecs","Inca","Denmark","The Huns","The Netherlands","Sweden","Austria","Carthage","Byzantium","Celts","Ethiopia","The Maya"],
-	"buildingsToRemove": ["Stele","Pyramid","Paper Maker","Floating Gardens","Walls of Babylon","Krepost","Burial Tomb","Mud Pyramid Mosque","Bazaar","Longhouse","Wat","Mughal Fort","Ceilidh Hall","Coffee House"],
+	"buildingsToRemove": ["Stele","Pyramid","Paper Maker","Floating Gardens","Walls of Babylon","Krepost","Burial Tomb","Mud Pyramid Mosque","Bazaar","Longhouse","Wat","Mughal Fort","Ceilidh Hall","Satrap's Court","Coffee House"],
 	"unitsToRemove": [
         "Maori Warrior", "Jaguar", 
         "Bowman", "Slinger", "Atlatlist",
